@@ -1,0 +1,17 @@
+{
+  "name": "app-with-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-with-wp-vars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack ./src/app.js ./dist/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
+ 

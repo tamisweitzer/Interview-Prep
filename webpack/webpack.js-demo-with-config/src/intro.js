@@ -1,0 +1,2 @@
+
+export let intro = `Allow me to introduce lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi animi magnam nostrum repellat eaque facilis consequatur dolor porro blanditiis earum excepturi quo, ipsam voluptatem obcaecati molestias? Necessitatibus omnis alias numquam!`;

@@ -1,0 +1,6 @@
+
+.header { height: 100px; background-color: #eee; padding: 1rem; }
+
+.main { height: calc(100vh - 200px - 4rem); margin: 2rem 0; }
+
+.footer { height: 100px; background-color: #eee; padding: 1rem; }

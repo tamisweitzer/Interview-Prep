@@ -1,0 +1,4 @@
+
+export let myName = "tami";
+
+
